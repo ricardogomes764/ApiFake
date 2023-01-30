@@ -1,11 +1,6 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+"user_connected": { 
+	"id": 1,
+	"email": "ricardo@flexconsulta.com.br",
+	"password": "abc123"
 }
